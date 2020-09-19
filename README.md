@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/AqpA9PUiSI.gif' />
 
-GIF created with [LiceCap](http://g.recordit.co/AqpA9PUiSI.gif).
+GIF created with [Recordit](http://g.recordit.co/AqpA9PUiSI.gif).
 
 ## Notes
 
