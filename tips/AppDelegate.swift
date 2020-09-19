@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  tips
+//  tip
 //
 //  Created by Rashon Poole on 9/19/20.
 //
