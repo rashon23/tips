@@ -15,6 +15,9 @@
 		4C86F8E725168AEA00709511 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C86F8E525168AEA00709511 /* LaunchScreen.storyboard */; };
 		4C86F8F225168AEA00709511 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C86F8F125168AEA00709511 /* tipsTests.swift */; };
 		4C86F8FD25168AEB00709511 /* tipsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C86F8FC25168AEB00709511 /* tipsUITests.swift */; };
+		4C86F91D2517144100709511 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C86F91C2517144100709511 /* SettingsViewController.swift */; };
+		4C86F91E2517144100709511 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C86F91C2517144100709511 /* SettingsViewController.swift */; };
+		4C86F91F2517144100709511 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C86F91C2517144100709511 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		4C86F8F825168AEA00709511 /* tipsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C86F8FC25168AEB00709511 /* tipsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsUITests.swift; sourceTree = "<group>"; };
 		4C86F8FE25168AEB00709511 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C86F91C2517144100709511 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,7 @@
 		4C86F8CE25168AE900709511 = {
 			isa = PBXGroup;
 			children = (
+				4C86F91C2517144100709511 /* SettingsViewController.swift */,
 				4C86F8D925168AE900709511 /* tips */,
 				4C86F8F025168AEA00709511 /* tipsTests */,
 				4C86F8FB25168AEB00709511 /* tipsUITests */,
@@ -261,6 +266,7 @@
 				4C86F8DF25168AE900709511 /* ViewController.swift in Sources */,
 				4C86F8DB25168AE900709511 /* AppDelegate.swift in Sources */,
 				4C86F8DD25168AE900709511 /* SceneDelegate.swift in Sources */,
+				4C86F91D2517144100709511 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C86F8F225168AEA00709511 /* tipsTests.swift in Sources */,
+				4C86F91E2517144100709511 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C86F8FD25168AEB00709511 /* tipsUITests.swift in Sources */,
+				4C86F91F2517144100709511 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
