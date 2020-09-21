@@ -45,6 +45,9 @@
                                     <segment title="18%"/>
                                     <segment title="20%"/>
                                 </segments>
+                                <connections>
+                                    <action selector="calculateTip:" destination="BYZ-38-t0r" eventType="valueChanged" id="Uah-oB-uJo"/>
+                                </connections>
                             </segmentedControl>
                             <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="re3-EP-Xbf">
                                 <rect key="frame" x="269" y="122" width="97" height="34"/>
